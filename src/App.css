@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.btn {
+  width: 100px;
+  height: 30px;
+  border: 1px solid black;
+  text-align: center;
+  color: greenyellow;
+}
